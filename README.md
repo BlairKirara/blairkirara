@@ -1,5 +1,5 @@
 ###
-<p style="text-align: center;">
+<p align="center">
 <img src='cat-dance.gif' width='100'> <img src='welcome.gif' width='200'> <img src='cat-dance.gif' width='100'>
 </p>
 
