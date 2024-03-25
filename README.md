@@ -1,5 +1,6 @@
 ###
-![](https://github.com/BlairKirara/blairkirara/blob/main/cat-dance.gif | width=20)
+<img src='cat-dance.gif' width='20'>
+
 
 
 ![](https://github.com/BlairKirara/blairkirara/blob/main/cat-dance.gif) ![](https://github.com/BlairKirara/blairkirara/blob/main/cat-dance.gif)
