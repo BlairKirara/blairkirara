@@ -1,7 +1,10 @@
 ###
 <p align="center">
 <img src='cat-dance.gif' width='100'> <img src='welcome.gif' width='200'> <img src='cat-dance.gif' width='100'>
+</p>
 
+
+<p align="center">
 [![IMAGE ALT TEXT](astolfo-link.png)](http://www.youtube.com/watch?v=2p9BTV-Id_w "Astolfo dancing")
 </p>
 <!--
