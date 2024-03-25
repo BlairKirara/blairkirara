@@ -1,5 +1,6 @@
 ###
-<img src=".cat-gif.gif" width="20"/>
+<img src="https://github.com/asd/privategithubrepo/images/output/video1.gif](https://github.com/BlairKirara/blairkirara/blob/main/cat-dance.gif" width="20">
+
 
 ![](https://github.com/BlairKirara/blairkirara/blob/main/cat-dance.gif) ![](https://github.com/BlairKirara/blairkirara/blob/main/cat-dance.gif)
 
